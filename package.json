@@ -1,0 +1,22 @@
+{
+  "name": "construction_company_landing_page",
+  "version": "1.0.0",
+  "description": "A simple HTML project with Tailwind CSS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/R0Y4L23/Construction_Company_Landing_Page.git"
+  },
+  "author": "Subham Roy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/R0Y4L23/Construction_Company_Landing_Page/issues"
+  },
+  "homepage": "https://github.com/R0Y4L23/Construction_Company_Landing_Page#readme",
+  "dependencies": {
+    "tailwindcss": "^2.2.16"
+  }
+}
